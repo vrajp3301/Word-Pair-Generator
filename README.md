@@ -1,4 +1,4 @@
-# wordpair
+# Word-Pair-Generator
 
 A new Flutter project.
 
